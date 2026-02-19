@@ -1,0 +1,317 @@
+{
+  "page_1": {
+    "title": "SUOMEN mestari",
+    "authors": [
+      {
+        "name": "Sonja Gehring",
+        "affiliation": "",
+        "email": ""
+      },
+      {
+        "name": "Sanni Heinzmann",
+        "affiliation": "",
+        "email": ""
+      }
+    ],
+    "text": "Suomen kielen oppikirja aikuisille",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [],
+    "header": "",
+    "footer": "",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": ""
+  },
+  "page_2": {
+    "text": "Alkusanat\nMerkkien selitykset\nSuomen kartta\nKirjan henkilöt\n\nKappale 1: Hei ja tervetuloa!\nSanasto\n- tutustuminen\n- tervehdykset\n- viikonpäivät\n- aakkoset\n- numerot\nKielioppi\n- persoononapronomininit\n- olla-verbi\n- vokaalinharmonia\n- ääntäminen: vokaalit\n\nKappale 2: Minkämaalainen sinä olet?\nSanasto\n- maat\n- kansalaisuudet\n- kielet\n- verbejä\n- kysymyksiä\nKielioppi\n- k-p-t-vaihtelu\n- persoononataivutus: verbityyppi 1\n- negatiivinen lause\n- kysymyssanat\n- ko/kö-kysymys\n- ääntäminen: konsonantit intonaatio\n\nPuhutaan: Jät skiskalla\n\nKappale 3: Pedro soittaa Mikolle\nSanasto\n- sää\n- vuodenaajat\n- kuukaudet\n- vuorokaudenajat\n- adjektiiveja\nKielioppi\n- genetiivi\n- t-monikko\n- k-p-t-vaihtelu: verbityyppi 1\n- ääntäminen: kaksi eri vokaalia\n\nPuhutaan: Pedro ilmoittautuu kurssille\n- avun pyytäminen\n- henkilötiedot",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Alkusanat"
+      },
+      {
+        "title": "Merkkien selitykset"
+      },
+      {
+        "title": "Suomen kartta"
+      },
+      {
+        "title": "Kirjan henkilöt"
+      },
+      {
+        "title": "Kappale 1: Hei ja tervetuloa!"
+      },
+      {
+        "title": "Sanasto"
+      },
+      {
+        "title": "Kielioppi"
+      },
+      {
+        "title": "Kappale 2: Minkämaalainen sinä olet?"
+      },
+      {
+        "title": "Sanasto"
+      },
+      {
+        "title": "Kielioppi"
+      },
+      {
+        "title": "Puhutaan: Jät skiskalla"
+      },
+      {
+        "title": "Kappale 3: Pedro soittaa Mikolle"
+      },
+      {
+        "title": "Sanasto"
+      },
+      {
+        "title": "Kielioppi"
+      },
+      {
+        "title": "Puhutaan: Pedro ilmoittautuu kurssille"
+      }
+    ],
+    "header": "Sisällysluettelo",
+    "footer": "sivu 3",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Finnish language, vocabulary, grammar, pronouns, verbs, vowel harmony, genitive, question formation, pronunciation, numbers"
+  },
+  "page_3": {
+    "text": "Kappale 4: Minä .............................................................................. 86\nSanasto\n• perhe\n• ulkonäkö\n• värit\nPuhutaan: Vaatekaupassa\n• ostosfraaseja\n• värit\nKieliloppi\n• partitiivi\n• Minulla on...\n• partitiiviverbejä\n\nKappale 5: Meidän tavallinen päivä ................................................ 114\nSanasto\n• päivän kulku\n• verbejä\n• kello\nPuhutaan: Aamupalapöydässä\n• tapaamisen sopiminen\nKieliloppi\n• verbityypit 1–5\n• verbi + verbi\n• verbi + partitiivi\n\nKappale 6: Pedro ja Hanna etsivät asuntoa, Muutto ........................... 146\nSanasto\n• asuminen\n• adjektiiveja\nPuhutaan: Pedro soittaa huoltoyhtiöön\n• asiointifraaseja\nKieliloppi\n• paikan sijat\n• Huoneessa on...\n• pronominit tämä, tuo, se\n• käskymuoto: sinä-persoonona\n\nKappale 7: Kylässä .................................................................... 184\nSanasto\n• kaupunki\n• matkailu\n• kulkuneuvineet\nPuhutaan: Hotellissa\n• hotellissa asiointi\nKielioppi\n• sanatyypit e, nen, i-tyypit\n• k-p-t-vaihtelu (nominit)\n• pronominien taivutus\n• tämä, tuo, siellä, täällä\n• On hauskaa...\n• imperfekt: olla, tulla, mennä, minulla on\n\nsivu 4",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Kappale 4: Minä"
+      },
+      {
+        "title": "Sanasto"
+      },
+      {
+        "title": "Puhutaan: Vaatekaupassa"
+      },
+      {
+        "title": "Kieliloppi"
+      },
+      {
+        "title": "Kappale 5: Meidän tavallinen päivä"
+      },
+      {
+        "title": "Sanasto"
+      },
+      {
+        "title": "Puhutaan: Aamupalapöydässä"
+      },
+      {
+        "title": "Kieliloppi"
+      },
+      {
+        "title": "Kappale 6: Pedro ja Hanna etsivät asuntoa, Muutto"
+      },
+      {
+        "title": "Sanasto"
+      },
+      {
+        "title": "Puhutaan: Pedro soittaa huoltoyhtiöön"
+      },
+      {
+        "title": "Kieliloppi"
+      },
+      {
+        "title": "Kappale 7: Kylässä"
+      },
+      {
+        "title": "Sanasto"
+      },
+      {
+        "title": "Puhutaan: Hotellissa"
+      },
+      {
+        "title": "Kielioppi"
+      }
+    ],
+    "header": "Sisällysluettelo",
+    "footer": "sivu 4",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "sanasto, kielioppi, verbit, imperfekti, pronominit, käskymuoto, päivärytmi, kaupungin, matkailu, kulkuneuvot"
+  },
+  "page_4": {
+    "text": "Kappale 8: Onnea uuteen kotiin!\nSanasto\n- ruoka ja juoma\n- adjektiiveja\n- juhlat ja toivotukset\nPuhutaan: Alex ei löydä perille\n- tien neuvominen\nKielioppi\n- ainesanojen partitiivi\n- järjestysluvut ja päivays\n- postpositiot\nKappale 9: Ensimmäinen työpäivä\nSanasto\n- työ\n- ammatit\nPuhutaan: Lounaalla\n- ravintolassa asiointi\nKielioppi\n- objekti\n- sanatyypit us/ys/os/ös/es\n- kenelle/keneltä\n- k-p-t-vaihtelu: verbityypit 3 ja 4\n- persoona pronounien taivutus\nLisäharjoitukset\nMinikielioppi\nPuhekieli\nHarjoitusten ratkaisut",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Kappale 8: Onnea uuteen kotiin!"
+      },
+      {
+        "title": "Sanasto"
+      },
+      {
+        "title": "Puhutaan: Alex ei löydä perille"
+      },
+      {
+        "title": "Kielioppi"
+      },
+      {
+        "title": "Kappale 9: Ensimmäinen työpäivä"
+      },
+      {
+        "title": "Sanasto"
+      },
+      {
+        "title": "Puhutaan: Lounaalla"
+      },
+      {
+        "title": "Kielioppi"
+      },
+      {
+        "title": "Lisäharjoitukset"
+      },
+      {
+        "title": "Minikielioppi"
+      },
+      {
+        "title": "Puhekieli"
+      },
+      {
+        "title": "Harjoitusten ratkaisut"
+      }
+    ],
+    "header": "Sisällysluettelo",
+    "footer": "sivu 5",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Kappaleet, sanasto, kielioppi, Puhutaan, lisäharjoitukset, minikielioppi, puhekieli, Harjoitusten ratkaisut, Suomen mestari 1"
+  },
+  "page_5": {
+    "text": "Hyvä lukija\nKirja on Suomen mestari 1 -oppikirjan uudistettu laitos. Kirja on tarkoitettu aikuisten ja nuorten suomen kielen opiskeluun alkeistasolla. Kirja sijoittuu eurooppalaisen viitekehyksen taitotasolle A1.\n\nAihepiirit\nKirjan aihepiirit ja päähenkilöt on valittu läheltä aikuisen suomenoppijan elämää. Tekstit muodostavat juonen jatkuvan tarinan, jossa edetään kurssikontekstista arkielämän tilanteisiin: asuminen, perhe-elämä, työ ja vapaa-ajan viestintätilanteisiin.\n\nArkipuhekieli\nKappaleiden tekstit ovat dialogisia ja sisältävät arkipuhekielen viestintäfraaseja alkeisoppijalle sopivassa laajuudessa. Kappaleiden päätekstit ovat kirjakielisiä, jotta ne tukevat johtopäätöksen muodostumista. Puhutaan! -osiot ovat puhekielisiä ja käsittelevät arkisia viestintätilanteita. Kirjan puhuttelut on merkitty selkeästi puhekielimerkkeillä.\n\nSanasto, rakenteet ja harjoitukset\nSanaston omaksumista tukee runsas funktionaalinen kuvitus. Lisäksi kappaleisiin on koottu sanastoa ja kielioppiasioita tukevia pätkiä, jotta on helppo tarkistaa keskeiset ilmaukset. Uudet rakenteet esiintyvät teksteissä mahdollisimman luonnollisissa käyttökonteksteissa. Kieliosien selkeyteen kiinnitetään erityistä huomiota. Kirjan taakse on lisätty Minikielioppipaketti, joka kokoaa esitellyt rakenteet kokonaisuuksiksi, jotta opiskelija voi helposti tarkistaa kielioppiasioita yhdestä paikasta.\n\nHarjoituksia on kutakin kappaletta kohti runsaasti ja niiden oikeat ratkaisut on annettu kirjan takakannessa, mikä mahdollistaa kirjan käytön myös itseopiskelussa. Harjoitukset etenevät yksinkertaisista muodoista ja sanastoharjoituksista erilaisten kielikäyttö- ja viestintätehtäviin. Mukana on paljon kuuntelu- ja puhetehtäviä.",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Hyvä lukija"
+      },
+      {
+        "title": "Aihepiirit"
+      },
+      {
+        "title": "Arkipuhekieli"
+      },
+      {
+        "title": "Puhutaan!"
+      },
+      {
+        "title": "Sanasto, rakenteet ja harjoitukset"
+      }
+    ],
+    "header": "Alkusanat",
+    "footer": "sivu 6",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "suomen kieli, aikuisopiskelu, arkipuhe, sanasto, rakenteet, harjoitukset, puhekieli, viestintätilanteet, oppikirja, kielioppi"
+  },
+  "page_6": {
+    "text": "Kirjaan liittyvät muut aineistot\n\nDigittehtävät tarjoavat opiskelijan käyttöön lisäharjoituksia kirjan sanasto-, kieliopp- ja viestintäsisällöistä. Verkossa on myös videoita kappaleiden teksteistä. Lisäksi verkkomateriaalissa on kuuntelu- ja ääntämisharjoituksia.\n\nÄänitteeltä ovat kuunneltavissa kaikki kirjan kappaleet ja kuuntelu- ja ääntämisharjoitukset.\n\nOpettajan opas on laajennettu ja uudistettu kirjan uudistuksen mukana. Oppaan fokus on yhä enemmän tuntityöskentelyn tueksi tarkoitetuissa toiminnallisissa harjoituksissa. Oppaassa on myös opetuskäytännön apuvälineitä, lisäharjoituksia, lisäharjoitusmateriaalia. Opettajan opas sisältää myös kuunteluharjoitusten tekstit.\n\nUseat tahot ovat edistäneet tämän uudistetun laitoksen syntyä. Haluamme kiittää erityisesti perhettämme, joiden panos on kestänyt yli vuosikymmenen. Lisäksi kiitoksen ansaitsevat asiantunteva ja tarkka kustannustoittajamme Kai Löfgren ja taitava kuvittajamme Jenni Lindfors, joka aina onnistuu toteuttamaan mahdollisimman laadukkaita kuvituksia.\n\nToivotamme menestystä oppimis- ja opetustehtäviin Suomen mestari -sarjan parissa!\n\nHelsingissä 10.1.2020\n\nSonja Gehring ja Sanni Heinzmann\n\nMerkkien selitykset\n\nTekstissä, infolaatikossa tai harjoituksissa käytetään puhekieltä. -merkillä ilmoitetaan puhekieliset sanat sanastoissa.\n\nÄäntämisharjoitus. Useimmat ääntämisharjoitukset voivat toistaa ääntämisen perässä. Tehtävänannosta käy ilmi, miten harjoitus on tarkoitettu tehtäväksi.\n\nKuunteluharjoitus. Harjoitus kuunnellaan äänitteeltä ja vastataan kirjaan.\n\nSuullinen pariharjoitus.\n\nHarjoitus, jossa kirjoitetaan (pitempi) teksti.\n\nHarjoitus, jossa luetaan pitempi teksti.\n\nsivu 7",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Kirjaan liittyvät muut aineistot"
+      },
+      {
+        "title": "Merkkien selitykset"
+      }
+    ],
+    "header": "",
+    "footer": "sivu 7",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "oppimateriaali, lisäharjoitukset, sanasto, kieliopp, viestintä, kuuntelu, ääntäminen, opettajan opas, kiitokset, kustannustoittaja"
+  },
+  "page_7": {
+    "text": "",
+    "figures": [
+      {
+        "number": "Figure 1",
+        "caption": "Suomen kartta (Map of Finland)",
+        "description": "A political/physical map showing Finland and its surrounding countries (Norja, Ruotsi, Venäjä) with major cities and a legend at the upper-right."
+      }
+    ],
+    "tables": [],
+    "algorithms": [],
+    "sections": [],
+    "header": "Suomen kartta",
+    "footer": "sivu 8",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Suomen kartta, kartografia, geografia, Finland, Norja, Ruotsi, Venäjä, Perämeri, Laatokka, Pohjanlahti"
+  },
+  "page_8": {
+    "text": "Kirjan henkilöt\n\nPedro Ribeiro\nPedro on brasilialainen opiskelija. Hän asuu nyt Suomessa, koska hänellä on suomalainen tyttöystävä Hanna. Pedro on nyt suomen kurssilla. Samalla kurssilla ovat myös Olga ja Alex.\n\nHanna Lahtinen\nHanna on suomalainen opiskelija. Hän opiskelee ammattikorkeakoulussa ja on myös töissä kaupassa. Hanna ja Pedro asuvat Puistotiellä Helsingissä. He ovat Mäkelän perheen naapurit.\n\nOlga, Julia ja Veijo Uitto\nOlga Uitto on venäläinen nainen. Hän on naimisissa Veijon kanssa. Veijo on suomalainen. Hänellä on yksi lapsi, Julia, joka on 4 vuotta. Olga opiskelee suomea kursseilla. Veijo on töissä. Hän on bussikuski.\n\nAlex Berger\nAlex on kotoisin Etelä-Afrikasta. Hän on töissä suomalaisessa yrityksessä ja hän opiskelee suomea kurssilla.\n\nMäkelän perhe\nMäkelät ovat tavallinen suomalainen perhe. He asuvat Puistotiellä Helsingissä. Lauri Mäkelä on kokki. Tuula Mäkelä on työssä apteekissa. Kalle on 12 vuotta ja hän on koulussa. Emma on 5-vuotias. Hän on päiväkodissa.",
+    "figures": [
+      {
+        "number": "1",
+        "caption": "Pedro Ribeiro",
+        "description": "Portrait of Pedro Ribeiro, a Brazilian student living in Finland."
+      },
+      {
+        "number": "2",
+        "caption": "Hanna Lahtinen",
+        "description": "Portrait of Hanna Lahtinen, a Finnish student who studies at a university of applied sciences and also works in a shop."
+      },
+      {
+        "number": "3",
+        "caption": "Olga, Julia ja Veijo Uitto",
+        "description": "Portrait of Olga Uitto with her family, including Julia and Veijo."
+      },
+      {
+        "number": "4",
+        "caption": "Alex Berger",
+        "description": "Portrait of Alex Berger, from South Africa, working in a Finnish company and studying Finnish."
+      },
+      {
+        "number": "5",
+        "caption": "Mäkelän perhe",
+        "description": "Portrait of the Mäkelä family living in Helsinki."
+      }
+    ],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Kirjan henkilöt"
+      },
+      {
+        "title": "Pedro Ribeiro"
+      },
+      {
+        "title": "Hanna Lahtinen"
+      },
+      {
+        "title": "Olga, Julia ja Veijo Uitto"
+      },
+      {
+        "title": "Alex Berger"
+      },
+      {
+        "title": "Mäkelän perhe"
+      }
+    ],
+    "header": "",
+    "footer": "sivu 9",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Finnish language course, immigrant profiles, language learning, education, employment, family, Helsinki, Puistotiellä, Russia, South Africa"
+  }
+}

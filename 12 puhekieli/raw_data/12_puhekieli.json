@@ -1,0 +1,97 @@
+{
+  "page_1": {
+    "title": "Puhekieli",
+    "authors": [],
+    "text": "Kirjakieli\nTekstit kirjoissa ja lehdissä ovat kirjakielestä.\n\n\"Menen saunaan tänään illalla. Tuletko mukaan?\" kysyy Seija.\n\"Valitettavasti minä en voi. Menemme illalla teatteriin,\" vastaa Irmeli.\n\nPuhekieli\nIhmiset puhuvat puhekieltä.\n\n\"Mä meen saunaan tänään illalla. Tuuks sä mukaan?\"\n\"Sori, mut mä en voi. Me mennään illalla teatteriin.\"\n\nNumerot\n1 yks\n2 kaks\n3 kolme\n4 neljä\n5 viisi\n6 kuus\n7 seitsemän\n8 kahdeksan\n9 yhdeksän\n10 kymmenen\n11 yksitoista\n12 kaksitoista\n13 kolmetoista\n14 neljätoista\n15 viisitoista\n16 kuusitoista\n17 seitsemäntoista\n18 kahdeksantoista\n19 yhdeksäntoista\n20 kaksikymmentä\n21 kaksikymmentäyksi\n22 kaksikymmentäkaksi\n23 kaksikymmentäkolme\n24 kaksikymmentäneljä\n25 kaksikymmentäviisi\n26 kaksikymmentäkuusi\n27 kaksikymmentäseitsemän\n28 kaksikymmentäkahdeksan\n29 kaksikymmentäyhdeksän\n30 kolmekymmentä\n31 kolmekymmentäyksi\n32 kolmekymmentäkaksi\n33 kolmekymmentäkolme\n34 kolmekymmentäneljä\n35 kolmekymmentäviisi\n36 kolmekymmentäkuusi\n37 kolmekymmentäseitsemän\n38 kolmekymmentäkahdeksan\n39 kolmekymmentäyhdeksän\n40 neljäkymmentä\n41 neljäkymmentäyksi\n42 neljäkymmentäkaksi\n43 neljäkymmentäkolme\n44 neljäkymmentäneljä\n45 neljäkymmentäviisi\n46 neljäkymmentäkuusi\n47 neljäkymmentäseitsemän\n48 neljäkymmentäkahdeksan\n49 neljäkymmentäyhdeksän\n50 viisikymmentä\n60 kuusikymmentä\n70 seitsemänkymmentä\n80 kahdeksankymmentä\n90 yhdeksänkymmentä\n100 sata\n\nAnteeksi, mitä tää suklaa maksaa?\nKaks kolkytviis.\n",
+    "figures": [
+      {
+        "number": "Figure 1",
+        "caption": "Kirjakieli vs Puhekieli illustration",
+        "description": "Left panel shows Kirjakieli with a stack of books; right panel shows Puhekieli with people conversing."
+      },
+      {
+        "number": "Figure 2",
+        "caption": "Puhekieli dialogue",
+        "description": "Two people with speech bubbles illustrating spoken language."
+      },
+      {
+        "number": "Figure 3",
+        "caption": "Shopping scene",
+        "description": "Customer and cashier conversation about price."
+      }
+    ],
+    "tables": [
+      {
+        "number": "Table 1",
+        "caption": "Numerot (Finnish numbers 1-100)",
+        "body": "\\begin{tabular}{llll}\n1 yks & 11 yksitoista & 21 kaksikymmentäyksi & 31 kolmekymmentäyksi \\\\\n2 kaks & 12 kaksitoista & 22 kaksikymmentäkaksi & 32 kolmekymmentäkaksi \\\\\n3 kolme & 13 kolmetoista & 23 kaksikymmentäkolme & 33 kolmekymmentäkolme \\\\\n4 neljä & 14 neljätoista & 24 kaksikymmentäneljä & 34 kolmekymmentäneljä \\\\\n5 viisi & 15 viisitoista & 25 kaksikymmentäviisi & 35 kolmekymmentäviisi \\\\\n6 kuusi & 16 kuusitoista & 26 kaksikymmentäkuusi & 36 kolmekymmentäkuusi \\\\\n7 seitsemän & 17 seitsemäntoista & 27 kaksikymmentäseitsemän & 37 kolmekymmentäseitsemän \\\\\n8 kahdeksan & 18 kahdeksantoista & 28 kaksikymmentäkahdeksan & 38 kolmekymmentäkahdeksan \\\\\n9 yhdeksän & 19 yhdeksäntoista & 29 kaksikymmentäyhdeksän & 39 kolmekymmentäyhdeksän \\\\\n10 kymmenen & 20 kaksikymmentä & 30 kolmekymmentä & 40 neljäkymmentä \\\\\n100 sata\n\\end{tabular}"
+      }
+    ],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Kirjakieli"
+      },
+      {
+        "title": "Puhekieli"
+      },
+      {
+        "title": "Numerot"
+      }
+    ],
+    "header": "Puhekieli",
+    "footer": "",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "kieli, kirjakieli, puhekieli, suomen kieli, numerot"
+  },
+  "page_2": {
+    "text": "Persoononpronomininit\nKs-kysymys",
+    "figures": [],
+    "tables": [
+      {
+        "number": "1",
+        "caption": "Persoononpronomininit",
+        "body": "\\begin{tabular}{lll}\\nKirjakieli & Puhekieli Helsingissä & Puhekieli sinun alueella \\\\\\n\\hline\\nminä & mä & \\\\\\nsinä & sä & \\\\\\nhän & se & \\\\\\mme & me & \\\\\\nte & te & \\\\\\hne & ne & \\\\\\minun & mun & \\\\\\sinun & sun & \\\\\\hänen & sen & \\\\\\meidän & meiän & \\\\\\teidän & teiän & \\\\\\heillä & niillä & \\\\\\end{tabular}"
+      },
+      {
+        "number": "2",
+        "caption": "Ks-kysymys",
+        "body": "\\begin{tabular}{ll}\\nKirjakieli & Puhekieli \\\\\\nko/kö & ks \\\\\\nAsutko sinä Jyväskylässä? & Asuksä Jyväskylässä? \\\\\\nOletteko te illalla kotona? & Ootteks te illalla kotona? \\\\\\nMennäänkö me bussilla? & Mennäänks me bussilla? \\\\\\n\\end{tabular}"
+      }
+    ],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Persoononpronomininit"
+      },
+      {
+        "title": "Ks-kysymys"
+      }
+    ],
+    "header": "Puhekieli",
+    "footer": "sivu 327",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Finnish, pronouns, kirjakieli, puhekieli, Helsinki, dialect, personal pronouns, minä, sinä, hän"
+  },
+  "page_3": {
+    "text": "Verbit\nminä asun\nsinä asut\nhän asuu\nme asumme\nte asutte\nhe asuvat\n\nPOS.\nmä asun\nsä asut\nse asuu\nme asutaan\nte asutte\nne asuvat\n\nme-persoonna:\nme ollaan, me mennään, me syödään, me pelataan\n\nhe-persoonna:\nne on, ne menee, ne syö, ne pelaa\n\nNEG.\nmä en asu\nsä et asu\nse ei asu\nme emme asu\nte ette asu\nne ei asu\n\nHuom!\nolla\nmä oon\nsä oot\nse on\nme ollaan\nte ootte\nne on\n\nMitä te teette?\nMe istutaan sohvallla ja katsotaan telkkaria.\n\nPikkusanat\nKirjakieli\nmutta\nsitten\nettä\nkun\ntämä\nnämä\ntu o\nnuo\n\nPuhekieli\nmut\nsit\net\nku\ntää\nnä\ntoi\nnoi\n\nOot sä nyt suomen kurssilla?\nEn oo, mut syksyllä mä meen uudelle kurssille.\n\nMe istutaan sohvallä ja katsotaan telkkaria.",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Verbit"
+      },
+      {
+        "title": "Pikkusanat"
+      }
+    ],
+    "header": "",
+    "footer": "",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Puhekieli, verbit, pikkusanat, kirjakieli, suomen kieli, oppikirja, kielioppi, puhekielinen, telkkaria, kurssi"
+  }
+}

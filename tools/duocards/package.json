@@ -1,0 +1,19 @@
+{
+  "name": "duocards-tools",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Automation helpers for DuoCards",
+  "scripts": {
+    "install:browsers": "npx playwright install chromium",
+    "login": "node src/cli.js login",
+    "export:csv": "node src/cli.js export:csv",
+    "add:csv": "node src/cli.js add:csv",
+    "add:one": "node src/cli.js add:one"
+  },
+  "dependencies": {
+    "csv-parse": "^6.1.0",
+    "minimist": "^1.2.8",
+    "playwright": "^1.55.0"
+  }
+}

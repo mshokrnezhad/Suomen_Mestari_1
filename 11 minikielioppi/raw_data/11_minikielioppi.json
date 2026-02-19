@@ -1,0 +1,558 @@
+{
+  "page_1": {
+    "title": "Ääntäminen",
+    "authors": [],
+    "text": "The first page contains a Finnish pronunciation section with the headings: Vokaalit, Kaksi eri vokalia samassa tavussa (diftongit), Kaksi eri vokalia eri tavuisissa (vokaaliyhtymät), and Konsonantit. It shows two-column layouts for short vs. long vowels and for several vowel combinations, plus a Konsonantit section that distinguishes lyhyt (short) and pitkä (long) consonant-related examples. The exact word-by-word transcription is difficult to ensure accurately from this image due to legibility, but the structure is clear:\n\n- Vokaalit: short vs long vowels with example words (e.g., basic vowel forms and extended forms such as aa, oo, uu, ee, ii) and sample words beneath each form.\n- Kaksi eri vokalia samassa tavussa (diftongit): examples of diphthongs formed by two different vowels within the same syllable, with pairs like ai, au, ei, eu, ie, etc., each paired with a sample word.\n- Kaksi eri vokalia eri tavuisissa (vokaaliyhtymät): examples of vowel sequences across syllables (vokaaliyhtymät) with two different vowels in different syllables, each paired with a sample word.\n- Konsonantit: a two-column presentation of short vs. long consonants (lyhyt/pitkä) with example syllables/words illustrating each consonant and its usage, plus a section labelled muun konsonantit for additional consonant letters.\n\nHeader: Minikieloppi\nFooter: sivu 310\nFootnote: \nSidebar: \nKeywords: pronunciation, vowels, consonants, diphthongs, Finnish, phonetics, language teaching, short vowels, long vowels",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Vokaalit"
+      },
+      {
+        "title": "Kaksi eri vokalia samassa tavussa (diftongit)"
+      },
+      {
+        "title": "Kaksi eri vokalia eri tavuisissa (vokaaliyhtymät)"
+      },
+      {
+        "title": "Konsonantit"
+      }
+    ],
+    "header": "Minikieloppi",
+    "footer": "sivu 310",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "pronunciation, vowels, consonants, diphthongs, Finnish, phonetics, language teaching, short vowels, long vowels"
+  },
+  "page_2": {
+    "text": "Sanapaino\n\nSanapaino on aina 1. tavulla.\n\nHelsinki hotelli museo professori spagetti aurinko kaupunki\n\nIntonaatio\n\nMinä olen suomalainen. → Oletko sinä suomalainen?\n\nVokaaliharmonia\n\n[Diagram: Vokaaliharmonia diagram showing two vowel groups – a o u on the left and ä ö y on the right – with central vowels i e in the middle; examples and suffix harmony arrows illustrating how endings change with +ssa, +ssä, etc.]\n\nYhdysanat: suklaajäätelö + ssa/ssä → suklaajäätelössä",
+    "figures": [
+      {
+        "number": "Figure 1",
+        "caption": "Vokaaliharmonia diagram",
+        "description": "Diagram illustrating Finnish vowel harmony: back vowels (a, o, u) vs front vowels (ä, ö, y). Shows how suffix vowels harmonize (+ssa, +ssä) and gives example word formations."
+      }
+    ],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Sanapaino"
+      },
+      {
+        "title": "Intonaatio"
+      },
+      {
+        "title": "Vokaaliharmonia"
+      }
+    ],
+    "header": "Minikielieloppi",
+    "footer": "sivu 311",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Finnish pronunciation, word stress, intonation, vowel harmony, suffix harmony, back vowels, front vowels, compound words, Yhdysanat, Finnish phonology"
+  },
+  "page_3": {
+    "text": "K-p-t-vaihtelu\n\nNÄYTTÖ (K-p-t-vaihtelu) käsittelee konsonanttivartalon muutoksia ja vahvan/heikon muodon vaihtoa sanan sisällä sekä verbeissä. Otsikkoteksti ja taulukot/kuvat havainnollistavat, miten sana taipuu eri muodoissa ja miten äänteellinen vaihtelu tapahtuu.\n\nK-p-t-vaihtelu: yleiskuva\n- Vahva (esim. sana vahva/ vahva-alkuinen vartalo) ja heikko muoto ovat erotteluissa.\n- Muutosmallit sisältävät seuraavat painopisteet: vahva → heikko; kk → k; pp → p; tt → t.\n- Lisäksi konsonanttivartaloissa on muita säännönmukaisia muutoksia, esim. nk → ng, mp → mm, nt → nn, lt → ll, rt → rr.\n- Ei k-p-t-vaihtelua, jos sanoissa on: hk, sk, st, tk; sekä tilanteita, joissa sanoja päättyy kahteen vokaaliin; esimerkkihavaintoja: postI → postissa; keittiö → keittiössä.\n\nK-p-t-vaihtelu: verbityyppi 1\n- Esimerkkipuun keskellä on taulukko/kaavio, jossa yksikön ja monikon muotoja taivutetaan vihjeellisesti seuraavasti: minä, sinä, hän, me, te, he → verbiin liittyvä vartalo (yleensä nukku- tai vastaava) ja sen käännökset/muokkaukset sekä negatiivinen muoto (NEG.).\n- Negatiivinen muoto esitetään tyypillisesti muodossa en/nuku, et nuku, ei nuku, emme nuku, ette nuku, eivät nuku.\n\nK-p-t-vaihtelu: verbityyppi 3 ja 4\n- Taulukossa ja kaaviossa on esimerkkeinä verbit kuten juttella ja tavata. Juttella-verbillä konsonantti-tyyppi 3/4 tuottaa konsonanttien jäsentämisen muutoksen (juttelen, juttelet, juttelee, juttelemme, juttelette, juttelevat) ja tavata-verbillä vastaavat muodot (tapan, tapaat, tapaa, tapaamme, tapaatte, tapaavat) sekä niiden vastaavat pienemmät/kirjaimelliset muutokset.\n- Kaaviossa näkyy myös vahvan/heikon vartalon yhdessä käytössä sekä mahdolliset konsonanttien siirtymät (k → g/vaihtelu, p → v/d tms.), riippuen taivutuksesta.\n\nK-p-t-vaihtelu – tärkeimmät kuvaukset ja esimerkit\n- vahva → heikko -muodot: kk, pp, tt → k, p, t; sekä suuremmat vartalomuunnokset (nk → ng, mp → mm, nt → nn, lt → ll, rt → rr).\n- Esimerkkien keskeiset muodot: nounin taivutuksissa (NOMINATIIVI, PARTITIIVI, GENETIIVI, VARTALO/STA) sekä S-mihin, S-missä, S-mistä -kappaleissa.\n- Verbityypeissä 1 ja 3/4 on havainnollistettu miten konsonanttiyökset ja -äänteet vaikuttavat imperfektin/indicatiivin sekä negation rakenteisiin.\n\nHuomautuksia\n- Tekstissä esiintyy pääasiassa opettavaisia kuvauksia konsonantti- vaihteluista ja substantiivien sekä verbien taivutuksista.\n- Otsikot ja kuvien teksti esittävät kaavakuvia sekä luettelomaisia esimerkkejä konsonanttivartalon muutoksista.\n\nSivu 312 – lopussa on sivunumerointi.”",
+    "figures": [
+      {
+        "number": "Fig. 1",
+        "caption": "K-p-t-vaihtelu – diagrammi vahvan/heikon muodon, vartalon ja konsonanttivartalojen muutoksista sekä esimerkeistä.",
+        "description": "Kuvassa on sana vahva/va kuvallisesti esitetty, sekä nuolien avulla näytetään, miten konsonantit muuttuvat (kk→k, pp→p, tt→t) ja miten nk→ng, mp→mm, nt→nn, lt→ll, rt→rr tapahtuu. Vihreä laatikko kuvaa vahvan/kapean muutostavan yhteyttä ja kerrataan yleisiä muotoja kuten postissa/keittiössä sekä negatiivisen verbin taivutus (en nuku...)."
+      }
+    ],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "K-p-t-vaihtelu"
+      },
+      {
+        "title": "K-p-t-vaihtelu: verbityyppi 1"
+      },
+      {
+        "title": "K-p-t-vaihtelu: verbityyppi 3 ja 4"
+      }
+    ],
+    "header": "Minikelieloppi",
+    "footer": "sivu 312",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "K-p-t-vaihtelu, konsonantti-vartalo, suomen kieli, verbityypit, vahva ja heikko muoto, konsonanttivartalon muutokset"
+  },
+  "page_4": {
+    "text": "Monikko\nyksikkö\nkaupunki\nhyvä ystävä\n\nmonikko\nkaupungit\nhyvät ystävät\n\nGenetiivi\nKuka?\nAlex\nkiva tyttö\n\nKenen?\nAlexin\nkivan tytön\nAlexin kotimaa\nkivan tytön nimi\n\nMikä?\nHelsinki\n\nMinkä?\nHelsingin sää\n\nPersoonapronominmit\nminun ystävä\nsinun kirja\nhänen auto\nmeidän opettaja\nteidän kotimaa\nheidän kurssi\nminun ystäväni\nsinun kirjasi\nhänen autonsa\nmeidän opettajamme\nteidän kotianne\nheidän kursinsa",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Monikko"
+      },
+      {
+        "title": "Genetiivi"
+      },
+      {
+        "title": "Kuka?"
+      },
+      {
+        "title": "Kenen?"
+      },
+      {
+        "title": "Mikä?"
+      },
+      {
+        "title": "Minkä?"
+      },
+      {
+        "title": "Persoonapronominmit"
+      }
+    ],
+    "header": "Minikieliolppi",
+    "footer": "sivu 313",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Finnish grammar, plural, genitive, personal pronouns, vocabulary, morphology, language learning, dictionary, Finnish language"
+  },
+  "page_5": {
+    "text": "Partitiivi\n\nPartitiivin muodostus\nV + a/ä\nVV tai K + ta/tä\ne + ta/ttää\n\nHUOM! ia/ea/ä → a/ä\nvaikea → vaikeaa\n\nHUOM! Partitiivissa ei k-p-t-vaihtelua.\n\nPersoonapronominimit: partitiivi\nKuka? minä sinä hän me te he\nKetä? minua sinua häntä meitä teitä heitä\n\nPartitiivin käyttö\n• Numero + P\npitkä mies → 9 pitkää miestä\n• Verbi + P\nesim. rakastaa Hannaa. Katso partitiviverbit s. 321.\n• Minulla ei ole + P\nPedrolla ei ole autoa.\n\nAinesanat partitiviivissa\n1. Lauseen loppu (verbin jälkeen): ainesana on partitiivissa\nMe syömme salaattia.\n2. Lauseen alku (ennen verbii): ainesana ei partitiviissa\nKeitto maksaa 5,90 €.\n3. Ainesana + on ei ole + adjektiivi partitiviissa\nRakkaus on kaunista.\n\nHUOM! Kirja on hyvä. (Kirja ei ole ainesana.)",
+    "figures": [
+      {
+        "number": "Fig.1",
+        "caption": "Partitiivin muodostus diagram",
+        "description": "Diagram showing how partitive is formed from V, VV/K and e endings"
+      }
+    ],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "1. Partitiivi"
+      },
+      {
+        "title": "1.1 Partitiivin muodostus"
+      },
+      {
+        "title": "1.2 Persoonapronominimit: partitiivi"
+      },
+      {
+        "title": "1.3 Partitiivin käyttö"
+      },
+      {
+        "title": "1.4 Ainesanat partitiviivissa"
+      }
+    ],
+    "header": "Minikielioppi",
+    "footer": "sivu 314",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Finnish, partitiivi, grammar, suffix, pronouns, usage, vowels, conjugation, language-learning"
+  },
+  "page_6": {
+    "text": "Paikansijat\n\nS\n• sisällä\n• kaupungit normaalisti\n\nMihin?\nS-MIHIN (illatiivi)\nvn, hvn, seen\nMies menee taloon.\n\nMissä?\nS-MISSÄ (inessivi)\nssa/ssä\nMies on talossa.\n\nMistä?\nS-MISTÄ (elatiivi)\nsta/stä\nMies tulee talosta.\n\nL\n• päällä\n• lähellä\n• jotkin kaupungit\nlomalla, asemella, kurssilla, matkalla, ta...",
+    "figures": [
+      {
+        "number": "Figure 1",
+        "caption": "Mihin? Mies menee taloon.",
+        "description": "Illustration of a man walking toward a house."
+      },
+      {
+        "number": "Figure 2",
+        "caption": "Missä? Mies on talossa.",
+        "description": "Illustration of a man standing next to a house or inside it."
+      },
+      {
+        "number": "Figure 3",
+        "caption": "Mistä? Mies tulee talosta.",
+        "description": "Illustration of a man leaving a house."
+      },
+      {
+        "number": "Figure 4",
+        "caption": "L-MIHIN: Mihin? (terassille).",
+        "description": "Illustration of a man heading to a terrace."
+      },
+      {
+        "number": "Figure 5",
+        "caption": "L-MISSÄ: Missä? (terassilla).",
+        "description": "Illustration of a man on a terrace."
+      },
+      {
+        "number": "Figure 6",
+        "caption": "L-MISTÄ: Mistä? (terassilta).",
+        "description": "Illustration of a man leaving a terrace."
+      }
+    ],
+    "tables": [
+      {
+        "number": "Table 1",
+        "caption": "Paikansijat (S ja L) – Mihin? Missä? Mistä?",
+        "body": "\\begin{tabular}{|c|c|c|c|}\\hline & Mihin? & Missä? & Mistä? \\\\ \\hline S & S-MIHIN (illatiivi) & S-MISSÄ (inessivi) & S-MISTÄ (elatiivi) \\\\ & vn, hvn, seen & ssa/ssä & sta/stä \\\\ & Mies menee taloon. & Mies on talossa. & Mies tulee talosta. \\\\ \\hline L & L-MIHIN (allatiivi) & L-MISSÄ (adessiivi) & L-MISTÄ (elatiivi) \\\\ & lle &lla/llä & ila/lläkä? \\\\ & Mies menee terassille. & Mies on terassilla. & Mies tulee terassilta. \\\\ \\hline\\end{tabular}"
+      }
+    ],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Paikansijat"
+      },
+      {
+        "title": "HUOM!"
+      }
+    ],
+    "header": "",
+    "footer": "",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Finnish, grammar, locative cases, illatiivi, inessiivi, elatiivi, adessiivi, allatiivi, talo, terassi, vihreä, minusta"
+  },
+  "page_7": {
+    "text": "S-MIHIN (illatiivi)\n\n1 vokali → Vn\nlyhyt sana: 2 vokaa lia → hVn\npitkä sana: 2 samaa voka alia → seen\n\nV = vokaali\n\nHUOM! 2 eri vokaalia: keittiöön\n\nIhminen\n\nKenelle?\nVien kirjan Liisalle.\n\nKenellä?\nKirja on Liisalla.\n\nKeneltä?\nHaen kirjan Liisalta.",
+    "figures": [
+      {
+        "number": "1",
+        "caption": "S-MIHIN (illatiivi) diagram",
+        "description": "Diagram showing illative suffixes (Vn, hVn, seen) with example words and the note about two vowels in keittiöön."
+      },
+      {
+        "number": "2",
+        "caption": "Ihmisen L-sijat – illustration (Kenelle?)",
+        "description": "Image illustrating the sentence 'Vien kirjan Liisalle.'"
+      },
+      {
+        "number": "3",
+        "caption": "Ihmisen L-sijat – illustration (Kenellä?/Keneltä?)",
+        "description": "Images illustrating the sentences 'Kirja on Liisalla.' and 'Haen kirjan Liisalta.'"
+      }
+    ],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "S-MIHIN (illatiivi)"
+      },
+      {
+        "title": "Ihminen"
+      },
+      {
+        "title": "L-sijat"
+      }
+    ],
+    "header": "Minikieliloppi",
+    "footer": "sivu 316",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "illatiivi, vokaali, S-MIHIN, keittiöön, L-sijat, Liisalle, Liisalla, Liisalta, kirja, Finnish grammar"
+  },
+  "page_8": {
+    "text": "Pronominimit\n\nPersonona pronomininit (taulukko sisällön esittely tabulaarinen)\\nDemonstrativipronominimit (taulukko sisällön esittely tabulaarinen)\\nKysymyssanat mikä ja kuka (taulukko sisällön esittely tabulaarinen)\\nTäälä – tuolla – siellä\\nMihin? Missä? Mistä?\\nMihin?\\nMissä?\\nMistä?\\n(Mikäli kuvat ovat kuvitetuilla esimerkeillä suuntien havainnollistamista)\\nSivu 317",
+    "figures": [
+      {
+        "number": "Figure 1",
+        "caption": "Mihin? - kuva kolmesta suunnasta",
+        "description": "Kolme erillistä kuutiokuvaa, jotka havainnollistavat suuntien määräytymistä sekä tekstissä esitettyjä liikuttamisen ja paikan ilmaisua."
+      },
+      {
+        "number": "Figure 2",
+        "caption": "Missä? - kuva kolmesta suunnasta",
+        "description": "Kolme erillistä kuutiokuvitusta, jotka havainnollistavat sijainnin ilmaisua ja paikan käsitteitä."
+      },
+      {
+        "number": "Figure 3",
+        "caption": "Mistä? - kuva kolmesta suunnasta",
+        "description": "Kolme erillistä kuutiokuvaa, jotka havainnollistavat alkuperän ja lähteen ilmaisua."
+      }
+    ],
+    "tables": [
+      {
+        "number": "Table 1",
+        "caption": "Persononapronomininit",
+        "body": "\\begin{tabular}{l|cccccc}\\nN & minä & sinä & hän & me & te & he \\\\ \\hline\\nP & minun & sinun & hänen & meidän & teidän & heidän \\\\ \\hline\\nV & minua & sinua & häntä & meitä & teitä & heitä \\\\ \\hline\\nG & minun & sinun & hänen & meidän & teidän & heidän \\\\ \\hline\\nOBJ & minut & sinut & hänet & meidät & teidät & heidät \\\\ \\end{tabular}"
+      },
+      {
+        "number": "Table 2",
+        "caption": "Demonstratiivipronominimit",
+        "body": "\\begin{tabular}{l|cccccc}\\nN & tämä & tuo & se & nämä & nuo & nuo \\\\ \\hline\\nP & tätä & tuota & sitä & näitä & noita & noita \\\\ \\hline\\nV & tätä & tätä & sitä & näitä & noita & noita \\\\ \\hline\\nG & tätä & tuota & sitä & näiden & noiden & noiden \\\\ \\end{tabular}"
+      },
+      {
+        "number": "Table 3",
+        "caption": "Kysymyssanat mikä ja kuka",
+        "body": "\\begin{tabular}{l|cc}\\nKysymyssanat & mikä & kuka \\\\ \\hline\\nPerusmuoto & mikä & kuka \\\\ \\end{tabular}"
+      }
+    ],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Pronominimit"
+      },
+      {
+        "title": "Personona pronominimit"
+      },
+      {
+        "title": "Demonstrativipronominimit"
+      },
+      {
+        "title": "Kysymyssanat mikä ja kuka"
+      },
+      {
+        "title": "Täälä – tuolla – siellä"
+      },
+      {
+        "title": "Mihin? Missä? Mistä?"
+      }
+    ],
+    "header": "Minikielioppi",
+    "footer": "sivu 317",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Finnish, pronouns, personal pronouns, demonstrative pronouns, question words, Finnish grammar, cases, localization"
+  },
+  "page_9": {
+    "text": "Sanatyypit\n\nBlock 1 (root: huone, example of noun inflection)\nN  huone\nP  huonetta\nVARTALO  huone-\nG  huoneen\nS-MIHIN  huoneeseen\nS-MISSÄ  huoneessa\nS-MISTÄ  huoneesta\nL-MIHIN  huoneelle\nL-MISSÄ  huoneella\nL-MISTÄ  huoneelta\nMON  huoneet\n\nBlock 2 (example: hotell/i, hotel)\ni → i     k-p-tl\nN  hotell i\nP  hotell ia\nVARTALO  hotelli-\nG  hotellin\nS-MIHIN  hotelliin\nS-MISSÄ  hotellissa\nS-MISTÄ  hotellista\nL-MIHIN  hotellille\nL-MISSÄ  hotellilla\nL-MISTÄ  hotellilta\nMON  hotellit\n\nBlock 3 (root: kieli, language; i → e forms)\ni → e: kieli  k-p-tl\nN  kiel i\nP  kieltä/kieltä\nVARTALO  kieli-\nG  kielen\nS-MIHIN  kieleen\nS-MISSÄ  kielessä\nS-MISTÄ  kielestä\nL-MIHIN  kielelle\nL-MISSÄ  kielellä\nL-MISTÄ  kielestä\nMON  kielet\n\nBlock 4 (root: uusi, new)\ns i\nN  uusi\nP  uutta\nVARTALO  uude-\nG  uuden\nS-MIHIN  uuteen\nS-MISSÄ  uudessa\nS-MISTÄ  uudesta\nL-MIHIN  uudelle\nL-MISSÄ  uudella\nL-MISTÄ  uudelta\nMON  uudet\n\nBlock 5 (root: yritys, company; us/ys/ös/es)\nus/ys/ös/es\nN  yritys\nP  yritystä\nVARTALO  yritys-\nG  yrityksen\nS-MIHIN  yritykseen\nS-MISSÄ  yrityksessä\nS-MISTÄ  yrityksestä\nL-MIHIN  yritykseen\nL-MISSÄ  yrityksellä\nL-MISTÄ  yrityksestä\nMON  yritykset\n\nNote: The page appears to show multiple noun inflection paradigms (Nominative, Partitive, VARTALO = stem with a dash for derivation, Genitive, Illative, Inessive, Elative, Allative, Adessive, Ablative, plural). The exact spellings in the image are legible for the huone example and are approximated above for readability. Other blocks illustrate parallel patterns for hotel (hotelli), language (kieli), and new (uusi) and company (yritys). Readability may vary due to image quality.\n\n\n",
+    "figures": [],
+    "tables": [
+      {
+        "number": "1",
+        "caption": "Sanatyypit (Finnish noun inflection paradigms shown as examples)",
+        "body": "N  huone \nP  huonetta \nVARTALO  huone- \nG  huoneen \nS-MIHIN  huoneeseen \nS-MISSÄ  huoneessa \nS-MISTÄ  huoneesta \nL-MIHIN  huoneelle \nL-MISSÄ  huoneella \nL-MISTÄ  huoneelta \nMON  huoneet\n\nN  hotell i \nP  hotell ia \nVARTALO  hotelli- \nG  hotellin \nS-MIHIN  hotelliin \nS-MISSÄ  hotellissa \nS-MISTÄ  hotellista \nL-MIHIN  hotellille \nL-MISSÄ  hotellilla \nL-MISTÄ  hotellilta \nMON  hotellit\n\nN  kiel i \nP  kieltä/kieltä \nVARTALO  kiel i - \nG  kielen \nS-MIHIN  kieleen \nS-MISSÄ  kielessä \nS-MISTÄ  kielestä \nL-MIHIN  kielelle \nL-MISSÄ  kielellä \nL-MISTÄ  kielestä \nMON  kielet\n\nN  uusi \nP  uutta \nVARTALO  uude- \nG  uuden \nS-MIHIN  uuteen \nS-MISSÄ  uudessa \nS-MISTÄ  uudesta \nL-MIHIN  uudelle \nL-MISSÄ  uudella \nL-MISTÄ  uudelta \nMON  uudet\n\nN  yritys \nP  yritystä \nVARTALO  yritys- \nG  yrityksen \nS-MIHIN  yritykseen \nS-MISSÄ  yrityksessä \nS-MISTÄ  yrityksestä \nL-MIHIN  yritykseen \nL-MISSÄ  yrityksellä \nL-MISTÄ  yrityksestä \nMON  yritykset"
+      }
+    ],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Sanatyypit"
+      }
+    ],
+    "header": "Minikieliolppi",
+    "footer": "sivu 318",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Finnish morphology, inflection, suffixes, root, sanojen tyypit, sanatyypit, inflection patterns, Finnish nouns, nouns, language"
+  },
+  "page_10": {
+    "text": "Verbin persoonaataivutus\n(minä) puhun\n(sinä) puhut\n(hän/se) puhuu\n(me) puhumme\n(te) puhutte\n(he/ne) puhuvat\n\nNegatiivinen lause\nnegatiivinen verbi (neg. verbi) + vartalo\nen puhUn? et puhut? ei puhu? emme puhNum? ette puhutte? eivät puhuvat? (esimerkkejä: en puh17, et puh17, ei puhuu, emme puhudu, ette puhutte, eivät puhuvat) (puhu) – yleinen rakenne: negatiivinen lause muodostetaan käyttämällä verbiä ilman taivutusmuotoa yhdessä negatiivin ilmaisun kanssa.\n\nVerbi + verbi\nPerusverbit: haluta, voida, osata, tykätä\npersoona-muotto: Minä, Me, Elli, Minä\ninfinitiivi: mennä, ostaa, lukea, uida\nesimerkit: Minä haluan mennä. Ostaa jääkiekkoa. Lukea kirjaa. Uida kaupungin vesissä.\n\nOsa (ta) – Osa: osaatko sinä uida? Minä en osaa soittaa pianoa.\nVoida (mahdollisuus): Voiko auttaa minua? Michel ei voi tulla tänään kurssille.\n\nKäskymuoto: sinä-persoonoa\ninfinitiivi: lukea, avata\nKäsky: Lue! Avata!\nNEG. käsky: Älä lue! Älä avaa ovea!",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Verbin persoonaataivutus"
+      },
+      {
+        "title": "Negatiivinen lause"
+      },
+      {
+        "title": "Verbi + verbi"
+      },
+      {
+        "title": "Käskymuoto: sinä-persoonoa"
+      }
+    ],
+    "header": "Minikieloppi",
+    "footer": "sivu 319",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Finnish, verbs, conjugation, present tense, negation, infinitive, imperative, grammar, language learning"
+  },
+  "page_11": {
+    "text": "Verbityypit\n\nTyyppi 1\nInfinitiivi: tanssia\nVartalo: tanssi-\nConjugation (esimerkit, nykyinen/aikamuoto):\nminä tanssin, sinä tanssit, hän tanssii, me tansimme, te tanssitte, he tanssivat\n(esiintyy myös muita muodollisia muotoja kuten tanssitaan/tanssittiin, jne. tiedoissa näkyy perusparsi ja -muodot)\n\nTyyppi 2\nInfinitiivi: syödä\nVartalo: syö-\nConjugation (nykyinen/present):\nminä syön, sinä syöt, hän syö, me syömme, te syötte, he syövät\n HUOM! Tyyppi 2:ssa on joitakin epäsäännöllisiä ja poikkeavia taivutusmuotoja sekä liittyviä sanontoja (esim. tehdä ja nähdä – huomautus/poikkeavat sanat näkyvät sivun reunamarginaalissa).\n\nTyyppi 3\nInfinitiivi: kävellä\nVartalo: kävele-\nConjugation (nykyinen):\nminä kävelen, sinä kävelet, hän kävelee, me kävelemme, te kävelette, he kävelevät\n\nTyyppi 4\nInfinitiivi: siivota\nVartalo: siivoa-\nConjugation (nykyinen):\nminä siivoan, sinä siivoat, hän siivoaa, me siivoamme, te siivoatte, he siivoavat\n\nTyyppi 5\nInfinitiivi: valita\nVartalo: valitse-\nConjugation (nykyinen):\nminä valitsen, sinä valitset, hän valitsee, me valitsemme, te valitsette, he valitsevat\n\nHuomio: Kuvassa esiintyy myös pienryhmä HUOM!-kritiikki liittyen epäsäännöllisiin verbeihin sekä erilaisia taivutusesimerkkejä, kuten tehdä ja nähdä, joiden taivutusmallit eroavat perusryhmistä.\n\n",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Verbityypit"
+      },
+      {
+        "title": "Tyyppi 1"
+      },
+      {
+        "title": "Tyyppi 2"
+      },
+      {
+        "title": "Tyyppi 3"
+      },
+      {
+        "title": "Tyyppi 4"
+      },
+      {
+        "title": "Tyyppi 5"
+      }
+    ],
+    "header": "Minikieliloppi",
+    "footer": "sivu 320",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Finnish, verbs, conjugation, verb types, infinitive, stem, present tense, Type 1, Type 2, Type 3"
+  },
+  "page_12": {
+    "text": "Verbi + P\nVoitko auttaa minua?\nOlga etsii työpaikkaa.\nAnteeksi, voinko häiritä sinua?\nJuhlimme Tiinan syntymäpäivää lauantaina.\nMe katsomme televisiota.\nJussi odottaa Liisaa bussipysäkillä.\nMinä opiskelen historiaa, suomea ja englantia.\nKalle pelaa jalkapalloa.\nJulia puhuu saksaa.\nMinä rakastan Lauraa.\nPedro soittaa kitaraa.\nYmmärränkö englantia?\n\nVerbi + sta/stä (aihe)\nSuomalaiset puhuvat usein säästä.\nJari kertoo projektista.\nMe juttelemme kursseista.\nProfessori Nieminen kirjoittaa Suomen historian.\nTyökaverit keskustelevat lomasta.\n\nVerbi + ita/stä\nMaistuu Pedron pastasalaatti tuliselta.\nSitruunapirakka näyttää tosi hyvää.\nKysy opettajalta!\nLapsi pyytää isältä rahaa.\n\nMuut\nMennä + minne → Hän menee kauppaan. He menevät torille.\nKäydä + missä → Hän käy kaupassa. He käyvät torilla.\nOstaa + mistä → Kerttu ostaa leipää kaupasta ja kalaa torilta.\nSopia + lle → Keltainen väri sopii sinulle.",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Verbi + P"
+      },
+      {
+        "title": "Verbi + sta/stä (aihe)"
+      },
+      {
+        "title": "Verbi + ita/stä"
+      },
+      {
+        "title": "Muut"
+      }
+    ],
+    "header": "Minikielioppi",
+    "footer": "sivu 321",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "Finnish, verbs, prepositions, cases, minne, mihin, missä, -i-ta/sta, language learning"
+  },
+  "page_13": {
+    "text": "\nLausetyypit\n\nKysymyssanat\n- Kuka? Mikä? (olla-verbi) Mitä? (muut verbit)\n- Milloin? Mihin aikaan? Monelta?\n- Mistä? Miksi? Kuinka? Miten? (verbi)\n- Millainen? Minkämaalainen? Minkävärinen? Minkäkokoinen? (muut adjektiivit/attribuutit)\n\nSanajärjestys\n- Kysymyssanat → subjekti → verbi\n- Esimerkkejä: Kuka sinä olet? Mitä teet? (tässä näkyy kysymyssanojen ja subjekti/verbi järjestys perusmallina)\n\nKo/kö-kysymys\n- (Sinä) olet suomalainen. → Oletko (sinä) suomalainen?\n- (Sinä) et puhunut englantia? → Etkö (sinä) puhunut englantia?\n\nVastaus ko/kö-kysymykseen\n- Puhutko sinä englantia? → Puhun.  \n-          En.\n\nMinulla on...\nPOS. Ila/lla + on\n- Minulla on pieni koira.\n- Olgalla on sauna.  \n- Vanhalla opettajalla on tietokonetta.\nNEG. Ila/lla + ei ole\n- Minulla ei ole (pieniä) koiria.  \n- Olga ei ole sauna.  \n- Vanhalla opettajalla ei ole tietokonetta.\n\nHUOM! Ei partitivia: Minulla ei ole nälkä / jano / kiire / kylmä.\n\nHuoneessa on...\nPOS. \n- Suomessa on 5,5 miljoonaa ihmistä.\n- Lattialla on matto.\n- Huoneessa on sohva, pöytä ja hylly.\n\nNEG. \n- Suomessa ei ole kuninkaasta.  \n- Keittiössä ei ole isoa pöytää.\n\nOn hauskaa...\n- On hauskaa matkustaa Tampereelle.\n- Ei ole kivaa herätä joka aam umu kuudelta.\n\n",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Lausetyypit"
+      },
+      {
+        "title": "Kysymyssanat"
+      },
+      {
+        "title": "Sanajärjestys"
+      },
+      {
+        "title": "Ko/kö-kysymys"
+      },
+      {
+        "title": "Vastaus ko/kö-kysymyksen"
+      },
+      {
+        "title": "Minulla on..."
+      },
+      {
+        "title": "NEG."
+      },
+      {
+        "title": "Huoneessa on..."
+      },
+      {
+        "title": "On hauskaa..."
+      }
+    ],
+    "header": "Minikelioppi",
+    "footer": "sivu 322",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "kielitapa, kysymyslauseet, sanajärjestys, negatiiviset lauseet, omistussanat, kieltosäännöt, suomi, perusrakenne, harjoitus, oppikirjamainen esimerkki"
+  },
+  "page_14": {
+    "text": "Objekti\n\nGenetiivi\nAvaamme ikkunan. Tunnetko heidät?\n\nHuom! Persoonapronomininit Kenet? minut, sinut, hänet, meidät, teidät, heidät\n\nPartitiivi\n- Negatiivinen lause\nEmme avaa ikkunaa.\nMinä en tunne heitä.\n- Ainesanat\nJuotko teet?\n- Verbi + P\nTytöt pelaavat jalkapalloa.\n\nMonikko\nAvaamme ikkunat.\n\nPostposiot ja prepositiot\nedessä\ntakana\nvieressä\noikealla puolella\nvasemmalla puolella\nvälissä\nkeskellä\nympärrillä/ympärillä\näärässä\npäälle\nalla\nkanssa\njälkeen\nennen\n\nPedro istuu ikkunan edessä.\nVieraat polttavat tupakkaa oven takana.\nPieni pöytä on sohvan vieressä.\nOlga istuu Alexin oikealla puolella.\nJanita istuu Alexin vasemmalla puolella.\nAlex istuu Olgan ja Janitan välissä.\nKynttilät ovat pöydän keskellä.\nVeijo, Jenni ja Sami seisovat Pedron ympäri.\nHanna ja Meri istuvat pöydän ääressä.\nLamppulaatikko on kaapin päällä.\nOlgan lasi on pöydän alla.\nPedro asuu Hannan kanssa.\nKoulun jälkeen Kalle pelaa jalkapalloa.\nKalle käy suihkussa ennen aamupalaa.",
+    "figures": [
+      {
+        "number": "1",
+        "caption": "Diagram of postpositions and prepositions in Finnish",
+        "description": "Illustrates Finnish postpositions and prepositions (edessä, takana, vieressä, etc.) with example sentences"
+      }
+    ],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Objekti"
+      },
+      {
+        "title": "Genetiivi"
+      },
+      {
+        "title": "Partitiivi"
+      },
+      {
+        "title": "Negatiivinen lause"
+      },
+      {
+        "title": "Ainesanat"
+      },
+      {
+        "title": "Verbi + P"
+      },
+      {
+        "title": "Monikko"
+      },
+      {
+        "title": "Postposiot ja prepositiot"
+      }
+    ],
+    "header": "Minikieloppi",
+    "footer": "sivu 323",
+    "footnote": "",
+    "sidebar": "G +\nennen + P",
+    "keywords": "Finnish grammar, genitive, partitive, postpositions, prepositions, objects, nouns, verbs, singular, plural"
+  },
+  "page_15": {
+    "text": "Milloin?\n\nKello\n\nMitä kello on?\n\n- Kello on neljä.\n- Kello on viisi. (totes) [text in image shows clock examples; exact phrasing may vary]\n- Kello on puoli viisi.\n- Kello on viisi vaille viisi.\n\nKello on 8.00 ja 20.00 (esimerkki):\n\n8.00 Kello on kahdeksan aamulla.\n20.00 Kello on kahdeksan illalla.\n\nMihin aikaan? = Monelta?  Itä/itä\n\nklo 13 / klo 01  kello yksi  = yhdeltä\nklo 14 / klo 02  kello kaksi = kahdelta\nklo 15 / klo 03  kello kolme = kolmelta\nklo 16 / klo 04  kello neljä = neljältä\nklo 17 / klo 05  kello viisi = viideltä\nklo 18 / klo 06  kello kuusi = kuudelta\nklo 19 / klo 07  kello seitsemän = seitsemältä\nklo 20 / klo 08  kello kahdeksan = kahdelta\nklo 21 / klo 09  kello yhdeksän = yhdeksältä\nklo 22 / klo 10  kello kymmentä = kymmentä\nklo 23 / klo 11  kello yksitoista = yhdeltätoista\nklo 24 / klo 12  kello kaksitoista = kahdeltatoista\n\nViikonpäivät  na/nä\n\nmaanantai  maanantaina\ntiistai     tiistaina\nkeskiviikko  keskiviikkona\ntorstai     torstaina\nperjantai    perjantaina\nlauantai     lauantaina\nsunnuntai    sunnuntaina\n\nviikonloppu  viikonloppu = viikonloppuna\n\njoka maanantai = maanantaisin\n\nVuorokausi (24 h)  IIa/IIa\n\naamu        aamulla\naamupäivä    aamupäivällä\npäivä         päivällä\nilta          illalla\nyö            yöllä\naamuyö       aamuyöllä\n\nsivu 324",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Milloin?"
+      },
+      {
+        "title": "Kello"
+      },
+      {
+        "title": "Mitä kello on?"
+      },
+      {
+        "title": "Mihin aikaan? = Monelta?  Itä/itä"
+      },
+      {
+        "title": "Viikonpäivät  na/nä"
+      },
+      {
+        "title": "Viikonloppu  viikonloppu = viikonloppuna"
+      },
+      {
+        "title": "joka maanantai = maanantaisin"
+      },
+      {
+        "title": "Vuorokausi (24 h)  IIa/IIa"
+      }
+    ],
+    "header": "Minikieliolppi",
+    "footer": "sivu 324",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "kieli, kellonajat, viikonpäivät, vuorokausi, suomen kieli, aikasanat, oppimateriaali, kellonlasku, ajanilmaukset, kielioppi"
+  },
+  "page_16": {
+    "text": "Kuukaudet\n1. tammikuu — tammikuussa\n2. helmikuu — helmikuussa\n3. maaliskuu — maaliskuussa\n4. huhtikuu — huhtikuussa\n5. toukokuu — toukokuussa\n6. kesäkuu — kesäkuussa\n7. heinäkuu — heinäkuussa\n8. elokuu — elokuussa\n9. syyskuu — syyskuussa\n10. lokakuu — lokakuussa\n11. marraskuu — marraskuussa\n12. joulukuu — joulukuussa\n\nVuodenajat\ntalvi — talvella\nkevät — keväällä\nkesä — kesällä\nsyksy — syksyllä\n\nPäiväys\n31.1.2020 Tänään on 31. tammikuuta 2020.\nMonesko päivä tänään on? Tänään on 12. marraskuuta.\nMilloin sinun syntymäpäivä on? Minun syntymäpäiväni on 17. elokuuta.\nMinä päivänä jouluna on? Joulu on 24. joulukuuta.\n\nJärjestysluvut\n1. ensimmäinen\n2. toinen\n3. kolmas\n4. neljäs\n5. viides\n6. kuudes\n7. seitsemäs\n8. kahdeksas\n9. yhdeksäs\n10. kymmenes\n11. yhdestoista\n12. kahdestoista\n13. kolmetoista\n14. neljätoista\n15. viidestoista\n16. kuudestoista\n17. seitsemästoista\n18. kahdeksastoista\n19. yhdeksästoista\n20. kaksikymmentätoista\n21. kahdeskymmenennesensimmäinen\n22. kahdeskymmenensekakkonen\n23. kahdeskymmeneskolmas\n24. kahdeskymmenesneljäs\n25. kahdeskymmenesviides\n26. kahdeskymmeneskuudes\n27. kahdeskymmenesseitsemäs\n28. kahdeskymmeneskahdeksas\n29. kahdeskymmenesyhdeksäs\n30. kolmaskymmenes\n31. kolmaskymmenesensimmäinen",
+    "figures": [],
+    "tables": [],
+    "algorithms": [],
+    "sections": [
+      {
+        "title": "Kuukaudet"
+      },
+      {
+        "title": "Vuodenajat"
+      },
+      {
+        "title": "Päiväys"
+      },
+      {
+        "title": "Järjestysluvut"
+      }
+    ],
+    "header": "Minikieliloppi",
+    "footer": "sivu 325",
+    "footnote": "",
+    "sidebar": "",
+    "keywords": "kielioppi, suomi, kuukaudet, vuodenaika, päivämäärä, järjestysluvut, sanasto, kielioppi, oppimateriaali, opas"
+  }
+}
