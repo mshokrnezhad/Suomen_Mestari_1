@@ -1,4 +1,4 @@
-Connect to my Notion and find page: "Suomem Mestari 1"/"Lesson 6".
+Connect to my Notion and find page: "Suomem Mestari 1"/"Lesson 7".
 
 Run @tools/duocards/RUNBOOK.md step by step for this page
 
