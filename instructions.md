@@ -62,7 +62,7 @@ You must **select** only the most useful items for **Speaking + Writing** and ig
 - Headings like “Sanasto”, “Harjoitukset”, “Kappale”, “sivu”.
 
 ### A) Grammar extraction (mandatory)
-Select **up to 6** grammar points that are most useful for **B1 speaking/writing**.
+Select grammar points that are most useful for **B1 speaking/writing**.
 
 For each selected grammar point, produce:
 - `name_fi`: short label in Finnish (if known)
@@ -194,7 +194,7 @@ Examples:
 ---
 
 #### A) Grammar (ALL points from lesson)
-#### A) Grammar (CORE: up to 6)
+#### A) Grammar (CORE)
 
 For each grammar point, use this template:
 
