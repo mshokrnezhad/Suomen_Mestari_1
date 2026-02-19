@@ -55,7 +55,7 @@ Repeat Steps 1–3 for other lessons as you work through the book.
 
 ---
 
-## Thank You & Contributing
+## Thank You <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands.png" alt="Folded Hands" width="20" height="20" />
 
 Thanks for checking out **Suomen Mestari 1 — Structured Content & Notion Learning**. We hope this workflow makes it easier to go from the book to structured material in Notion and to use Q&A and practice to understand and learn Finnish.
 
