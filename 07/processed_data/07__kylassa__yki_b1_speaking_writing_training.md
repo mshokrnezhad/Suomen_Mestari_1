@@ -138,7 +138,9 @@ Core grammar points selected from the lesson are listed below.
 - **Rule (EN)**: The lesson teaches “word types” (declension patterns). For **e-type** nouns (like `huone`), learn the 3 key forms: nominative, partitive, genitive. From these you can build many local-case forms. The lesson also states: if a Finnish word ends in `-e`, it is always an **e-type**.
 - **Forms/patterns**: `huone – huonetta – huoneen`, stem shown: `huonee-`, plus: `huoneeseen / huoneessa / huoneesta`, `huoneelle / huoneella / huoneelta`
 - **Examples (FI)**:
-  - Huone on 4. kerroksessa, numero 418.
+  - (huone) Huone on 4. kerroksessa, numero 418.
+  - (huonetta) Onko täällä huonetta?
+  - (huoneen) Huoneen hinta on 100 euroa.
   - Tässä se on: kahden hengen huone yhdeksi yöksi.
   - Huone täytyy luovuttaa kello 12.
 - **Speaking prompt**: Missä huone on?
@@ -187,7 +189,7 @@ Core grammar points selected from the lesson are listed below.
 
 ##### Grammar Point: `Sanatyypit: i → e (kieli, järvi)`
 - **Rule (EN)**: The lesson shows i-type words where `i` changes to `e` in the stem (examples: `kieli`, `järvi`). Learn 3 key forms, then build the common cases (missä/mihin/mistä) the lesson practices.
-- **Forms/patterns**: `kieli – kieltä – kiele-`, `järvi – järveä – järve-`, genitives shown: `kielen, järven`, plus: `kielessä/kielestä/kielelle/kielellä` and `järvessä/järvestä/järvelle/järvellä/järveltä`
+- **Forms/patterns**: `kieli – kieltä – kielen`, `järvi – järveä – järven`, genitives shown: `kielen, järven`, plus: `kielessä / kieleen / kielestä` and `järvessä / järveen / järvestä`
 - **Examples (FI)**:
   - Saunan jälkeen uimme kylmässä järvessä.
   - Tuulisella järvellä on viileää.
@@ -202,19 +204,20 @@ Core grammar points selected from the lesson are listed below.
     - https://kielitoimistonohjepankki.fi/ohje/taivutustyyppeja/
     - https://kotus.fi/sanakirjat/kielitoimiston-sanakirja/
 
-##### Grammar Point: `Sanatyypit: si (uusi)`
-- **Rule (EN)**: The lesson marks `uusi` as its own pattern label (`si`). Practical goal for B1: recognize and reuse `uusi` in common phrases about places and travel.
-- **Forms/patterns**: `si – uusi` (other forms: `unknown`)
+##### Grammar Point: `Sanatyypit: -si (uusi, vesi, käsi)`
+- **Rule (EN)**: Words ending in **-si** (like `uusi`, `vesi`, `käsi`, `vuosi`). The stem changes: **-si** → **-de-** (weak) or **-te-** (strong).
+- **Forms/patterns**: `uusi – uutta – uuden`, stem: `uude-` / `uute-`.
+  - Local cases: `uudessa` (inessive), `uuteen` (illative), `uudesta` (elative).
 - **Examples (FI)**:
-  - Pedro: kurssi → (pyörä) → koti → uusi uimahalli
-  - Sen kahvilassa on ihanat pullat.
-  - Tässä on sinulle pieni tuliaisaine.
-- **Speaking prompt**: Onko hotelli uusi?
-- **Writing frame**: Me menemme ___ hotelliin.
-- **Common error warning**: `unknown`
+  - Tämä on uusi kurssi.
+  - Asun uudessa talossa.
+  - Muutamme uuteen kotiin.
+- **Speaking prompt**: Asutko uudessa vai vanhassa talossa?
+- **Writing frame**: Me muutamme `___` (uusi) kotiin.
+- **Common error warning**: Forgetting the stem change `si` → `de` (e.g., saying *uusissa* instead of *uudessa*).
 - **Validation check**:
-  - **Status**: `uncertain`
-  - **Notes (EN)**: The lesson labels this as a word type, but the quick web check did not confirm this exact learner label.
+  - **Status**: `ok`
+  - **Notes (EN)**: Validated standard `-si` word declension (uusi/uutta/uuden).
   - **Sources**:
     - https://kielitoimistonohjepankki.fi/ohje/taivutustyyppeja/
 
@@ -267,21 +270,22 @@ Core grammar points selected from the lesson are listed below.
     - https://kielitoimistonohjepankki.fi/ohje/rektioita-mita-rektio-on/
     - https://www.jkorpela.fi/rektio/all.html
 
-##### Grammar Point: `Kävellen (HUOM!)`
-- **Rule (EN)**: The lesson explicitly notes: with some motion verbs you can say you go/come/leave **on foot** using `kävellen` (instead of a vehicle + `-lla/-llä`).
-- **Forms/patterns**: `Minä menen tulen lähden kävellen.`
+##### Grammar Point: `Kävellen (on foot) vs. Vehicles (-lla/-llä)`
+- **Rule (EN)**: Usually, you use the **-lla/-llä** ending for vehicles (e.g., *bussilla* = by bus). However, to say "on foot" (walking), you use the special form **kävellen**.
+- **Forms/patterns**:
+  - `Menen / Tulen / Lähden` + **kävellen** (on foot).
+  - `Menen / Tulen / Lähden` + **bussilla / autolla / pyörällä** (by vehicle).
 - **Examples (FI)**:
-  - Minä menen tulen lähden kävellen.
-  - Menen bussilla.
-  - Tulimme junalla.
-- **Speaking prompt**: Menetkö kävellen?
-- **Writing frame**: Minä menen ___.
-- **Common error warning**: (general) Mixing `kävellen` with vehicle-style `-lla/-llä` forms.
+  - *Minä menen töihin kävellen.* (I go to work on foot.)
+  - *Hän tulee kurssille bussilla.* (He comes to the course by bus.)
+  - *Me lähdemme kotiin kävellen.* (We leave for home on foot.)
+- **Speaking prompt**: Menetkö töihin kävellen vai bussilla?
+- **Writing frame**: Minä menen töihin `___` (kävellen / bussilla).
+- **Common error warning**: Saying *jalalla* (by foot) or *kävelyllä* (on a walk) when you mean the mode of transport *kävellen* (walking/on foot).
 - **Validation check**:
-  - **Status**: `uncertain`
-  - **Notes (EN)**: `kävellen` matches the (T)en-type infinitive/instructive use; a direct reference page for this exact example wasn’t found quickly.
+  - **Status**: `ok`
+  - **Notes (EN)**: Clarified the distinction between the instructive form `kävellen` and adessive vehicle forms.
   - **Sources**:
-    - https://kaino.kotus.fi/visk/etusivu.php
     - https://kaino.kotus.fi/visk/sisallys.php?p=120
 
 ---
