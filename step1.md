@@ -1,5 +1,5 @@
 Do as instructed in @instructions.md 
-for leaason 8: @08/processed_data/08.md 
+for leaason 9: @09/processed_data/09.md 
 
 Make sure that the grammar section includes every grammar topic explicitly taught in the lesson.
 
